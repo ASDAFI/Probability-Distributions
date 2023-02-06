@@ -1,6 +1,6 @@
 # Probability-Distributions
 
-Ineractive guide to probability distributions.
+Interactive guide to probability distributions.
 
 ## Contribution
 
